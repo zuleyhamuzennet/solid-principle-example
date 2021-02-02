@@ -17,7 +17,7 @@
 
 # Interface Segregation Principle
 - Interface Segregation Principle (ISP), hiçbir istemcinin kullanmadığı yöntemlere bağımlı olmaya zorlanmaması gerektiğini belirtir.
-- Uygulama arayüzlerini daha küçük parçalara bölerek daha büyük arayüzler kullanmanın olumsuz etkilerinden bizi kurtarır . Her sınıfın veya arayüzün tek bir amaca hizmet ettiği Tek Sorumluluk İlkesine benzer .
+- Uygulama arayüzlerini daha küçük parçalara bölerek daha büyük arayüzler kullanmanın olumsuz etkilerinden bizi kurtarır . Her sınıfın veya arayüzün tek bir amaca hizmet ettiği Single Responsibility Principle'a benzer .
 - ISP ile ilgili yapılan çalışmada bu prensibe uymayan ISP'ye uygun olmayan bir çalışmanın ISP'ye uygun şekilde tekrar kodlanması örneklenmiştir.
 
 # Dependency Inversion Principle
