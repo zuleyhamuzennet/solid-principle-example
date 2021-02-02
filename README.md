@@ -23,7 +23,7 @@
 # Dependency Inversion Principle
 - Bir sınıfın, metodun ya da özelliğin, onu kullanan diğer sınıflara karşı olan bağımlılığı en aza indirgenmelidir. Bir alt sınıfta yapılan değişiklikler üst sınıfları etkilememelidir.
 - Yüksek seviye sınıflarda bir davranış değiştiğinde, alt seviye davranışların bu değişime uyum sağlaması gerekir. Ancak, düşük seviye sınıflarda bir davranış değiştiğinde, üst seviye sınıfların davranışında bir bozulma meydana gelmemelidir.
-- Yüksek seviye ve düşük seviye sınıflar arasında bir soyutlama katmanı oluşturarak her ikisi de soyut kavramlar üzerinden yönetilebilmektedir.
+- Yüksek seviye ve düşük seviye sınıflar arasında bir soyutlama katmanı oluşturduğumuz her ikisi de soyut kavramlar üzerinden yönetilebilmektedir.
 
 ### Kaynaklar
 - [Single Responsibility Principle](https://www.baeldung.com/java-single-responsibility-principle#:~:text=For%20example%2C%20if%20we%20have,the%20text%20in%20some%20way.)
